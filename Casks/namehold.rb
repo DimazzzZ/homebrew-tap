@@ -1,6 +1,6 @@
 cask "namehold" do
-  version "0.8.0"
-  sha256 "d9d8d3694c5237c1a1d3eb5bfccc5f84f9cecdb0eb2c45e0e402a1f32662798c"
+  version "0.8.1"
+  sha256 "88788dc8ffc197b7dcc93bf69ad6493c868dddb072af4c454500c1533c0edff5"
 
   url "https://github.com/DimazzzZ/namehold-wallet/releases/download/v#{version}/Namehold_#{version}_universal.dmg"
   name "Namehold"
